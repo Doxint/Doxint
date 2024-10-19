@@ -1,16 +1,17 @@
-## Hi there 👋
+<div style="padding: 20px; border-radius: 10px; text-align: center; font-size: 14px;">
 
-<!--
-**Doxint/Doxint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ‼️ Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️‼️Disclaimer‼️
 
-Here are some ideas to get you started:
+<p>- Recommend the use of these tools within ethical norms and standards, as well as in accordance with the principles of fair use.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>- The author does not provide any assistance or support, even for a fee. All inquiries regarding support will not be addressed.</p>
+
+<p>- All tools and resources presented in this repository are intended for educational purposes only.</p>
+
+<p>- Author do not accept any responsibility for any consequences that may arise from their use.</p>
+
+<p>- Users are required to comply with all applicable laws and regulations in their jurisdiction.</p>
+
+<p>- The use of the provided tools is at your own risk. 
+
+</div>
