@@ -1,6 +1,6 @@
 <div style="padding: 20px; border-radius: 10px; text-align: center; font-size: 14px;">
 
-### ‼️ Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️‼️Disclaimer‼️
+### ‼️ Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️Disclaimer‼️
 
 <p>- Recommend the use of these tools within ethical norms and standards, as well as in accordance with the principles of fair use.</p>
 
